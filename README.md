@@ -1,12 +1,22 @@
-# React + Vite
+# 💎 My Bias Room
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> 나만의 아이돌 포토카드를 모으고 꾸밀 수 있는 팬페이지형 웹앱  
+> _"내 최애, 내 손으로 채운다!"_
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 소개
 
-## Expanding the ESLint configuration
+**My Bias Room**은 팬들이 자신만의 포토카드 컬렉션을 만들고, 좋아하는 아이돌 멤버를 소개할 수 있는 서비스 입니다.
+이미지 업로드, 좋아요 기능, 멤버 소개 등 다양한 기능을 통해 나만의 팬페이지를 꾸며보세요!
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧩 주요 기능
+
+- 🧑‍🎤 **아이돌 멤버 리스트** 보기  
+- 🖼️ **포토카드 갤러리**: 이미지 업로드 및 컬렉션 저장  
+- ❤️ **좋아요 기능**: 포카에 하트 눌러서 최애를 강조!  
+- ✏️ **포토카드 관리**: 포카 추가, 삭제, 수정 기능  
+- 🌈 (예정) **Firebase 연동**: 로그인/로그아웃 및 실시간 데이터 저장  
+- 💌 (예정) **팬레터 기능**: 최애에게 메시지를 남겨보세요
